@@ -53,8 +53,9 @@ header h1 {
   line-height: 1;
 }
 
-nav {
+nav ul {
   display: flex;
+  justify-content: space-around;
   flex-direction: row;
   flex-wrap: wrap;
 }
